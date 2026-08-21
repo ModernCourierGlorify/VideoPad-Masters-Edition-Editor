@@ -1,0 +1,29 @@
+{
+  "repo": "videopad-masters-edition-editor",
+  "product": "VideoPad Masters Edition Editor",
+  "kind": "video",
+  "install_type": "nexpath",
+  "install_url": "https://videopad.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "video",
+  "topics": [
+    "videopad",
+    "video-editing",
+    "timeline-editing",
+    "video-effects",
+    "transitions",
+    "home-video-editing",
+    "content-creation",
+    "media-editing",
+    "videopad-setup-failed-fix",
+    "how-to-install-videopad",
+    "videopad-windows",
+    "video-tools",
+    "windows-tools",
+    "media-utility"
+  ],
+  "stars_cache": 24,
+  "nexpath_slug": "videopad",
+  "nexpath_app_name": "VideoPad"
+}
